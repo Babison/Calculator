@@ -6,7 +6,7 @@ A beautiful, **iOS-inspired Glassmorphism Calculator** built with **HTML, CSS, a
 
 ## 🌐 Live Demo
 
-🧮 Try it here: **https://lunaaaaaaaaaaaaaaaa.github.io/Calculator/**
+🧮 Try it here: **https://Babison.github.io/Calculator/**
 
 ---
 ## 📸 Preview
